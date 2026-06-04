@@ -133,22 +133,6 @@
 
 <hr>
 
-<!-- <h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohittlabs&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</p> -->
-
-<hr>
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohittlabs&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<hr>
-
 <h3 align="center">🚀 Featured Projects</h3>
 
 <p align="center">
@@ -161,6 +145,22 @@
 </p>
 
 <hr>
+
+<!-- <h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohittlabs&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+</p> -->
+
+<!-- <hr> -->
+
+<!-- <h3 align="center">📈 Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohittlabs&theme=tokyo-night&hide_border=true&area=true" />
+</p> -->
+
+<!-- <hr> -->
 
 <h3 align="center">💬 Dev Quote of the Day</h3>
 
