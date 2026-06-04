@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/rohittlabs">
+<!-- <a href="https://github.com/rohittlabs">
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohittlabs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" align="center"/>
 </a>
 <a href="https://github.com/rohittlabs">
@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohittlabs&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <hr>
 
@@ -133,11 +133,11 @@
 
 <hr>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<!-- <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rohittlabs&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</p>
+</p> -->
 
 <hr>
 
